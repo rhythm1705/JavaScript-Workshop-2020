@@ -3,7 +3,7 @@
 For those that wish to review the content we talked about, I have linked the recording and the powerpoint below:
 
 - [Powerpoint to download](https://purdue0-my.sharepoint.com/:p:/g/personal/goel36_purdue_edu/EX6L9U8QVTRCn0nGtedw3qoBGJBdS9ufdDINV2yho84J6Q?e=Lzbqlv)
-- [Recording on Youtube](https://www.youtube.com/watch?v=-5CLrdAc5Yo&ab_channel=VictoireBeaufils)
+- [Recording on Youtube](https://youtu.be/iejiawY4-kI)
 
 The code we wrote is available in this repository.
 
